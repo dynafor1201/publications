@@ -1,2 +1,2 @@
 # publications
-List of dynafor publications
+List of publications from dynafor laboratory.
