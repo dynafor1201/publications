@@ -1,4 +1,4 @@
-# List of papers and supplementary materials
+# Publications and supplementary material
 
 ## :earth_africa: Maps
 
